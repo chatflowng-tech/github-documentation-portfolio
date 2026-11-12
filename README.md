@@ -14,3 +14,7 @@ This portfolio will showcase my practice work as I develop my skills.
 
 All practice samples will be clearly labelled.
 I will only describe work and experience I actually have.
+
+## My practice samples
+
+- [Improving a project introduction](practice-readme-improvement.md) — A fictional before-and-after writing exercise prepared with AI assistance.
